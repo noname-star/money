@@ -1,10 +1,27 @@
-.container p{
-    font-size: 200px;
-    color: pink;
-}
 .container{
-    background: black;
     display: flex;
     justify-content: center;
     align-items: center;
+}
+.cont{
+    min-height: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: solid 1px pink;
+}
+.banner{
+    min-height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: black; 
+    margin-bottom: 200px;
+}
+.banner p{
+    font-size: 30px;
+    color: white;
+}
+.container p{
+    font-size: 19px;
 }
