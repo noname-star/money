@@ -8,7 +8,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    border: solid 1px pink;
+    border: solid 1px black;
 }
 .banner{
     min-height: 100px;
@@ -24,6 +24,7 @@
 }
 .container p{
     font-size: 19px;
+    color: gray;
 }
 
 
