@@ -28,8 +28,7 @@
     color: gray;
 }
 .text{
-    display: flex;
-    /* flex-direction: column; */
+    display: block;
     width: 1000px;
 }
 .no1{
