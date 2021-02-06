@@ -29,7 +29,7 @@
 }
 .text{
     display: flex;
-    flex-direction: column;
+    /* flex-direction: column; */
     width: 1000px;
 }
 .no1{
@@ -46,6 +46,9 @@
 
 
 @media(max-width: 1000px) {
+    .text{
+        width: 70%;
+    }
     .container p{
         font-size: 15px;
     }
