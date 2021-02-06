@@ -27,13 +27,28 @@
     font-size: 19px;
     color: gray;
 }
-.text{
-    display: block;
+.text1,
+.text2{
     width: 1000px;
 }
 .no1{
     margin-top: 100px;
 }
+.div{
+    font-size: 20px;
+    color: white;
+    background: black;
+    width: 100%;
+    min-height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+
+
 
 
 
