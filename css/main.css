@@ -44,8 +44,6 @@
     align-items: center;
 }
 .ad{
-    border: solid 1px black;
-    min-height: 180px;
     min-width: 460px;
 }
 
